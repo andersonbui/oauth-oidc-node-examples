@@ -4,6 +4,10 @@
 - https://learn.microsoft.com/en-us/azure/active-directory/develop/scenario-spa-app-registration#redirect-uri-msaljs-20-with-auth-code-flow-microsoft
 - https://learn.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app
 
+ejemplos de microsoft para oauth: 
+- https://learn.microsoft.com/en-us/azure/active-directory/develop/sample-v2-code?tabs=apptype
+- https://github.com/Azure-Samples/ms-identity-javascript-tutorial/tree/main
+
 ## Azure para desarrolladores:
 - https://portal.azure.com/
 - https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/RegisteredApps
