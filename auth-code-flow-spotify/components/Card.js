@@ -4,7 +4,7 @@ export const Card = ({ userProfile, userPlaylists }) => {
       <div className="w-full md:w-2/5 h-80">
         <img
           className="object-center object-cover w-full h-full"
-          src={userProfile?.images[0].url}
+          src={userProfile?.images[0]?.url}
           alt={userProfile?.display_name}
         />
       </div>
