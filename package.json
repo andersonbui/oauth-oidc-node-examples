@@ -7,7 +7,8 @@
   "workspaces": [
     "preview-endpoint",
     "sign-and-verifying",
-    "auth-code-flow/",
+    "auth-code-flow-spotify/",
+    "auth-code-flow-microsoft/",
     "auth-code-flow-pkce/"
   ]
 }

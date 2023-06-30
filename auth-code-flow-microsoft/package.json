@@ -1,5 +1,5 @@
 {
-  "name": "auth-code-flow-spotify",
+  "name": "auth-code-flow-microsoft",
   "version": "0.1.0",
   "private": true,
   "scripts": {
